@@ -23,7 +23,7 @@
       "exportName": "gdvelop-plus",
       "name": "Gdevelop+",
       "type": "cordova",
-      "version": "0.0.1"
+      "version": "0.0.2"
     }
   ],
   "eventsFunctions": [
