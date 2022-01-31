@@ -3,3 +3,6 @@
  </p>
 
 This extension adds more functions and behaviors to gdevelop 5, in this moment no have downloads of the extension, coming soon
+    <p align="center">
+     [Official Website](https://bit.ly/gdevelop-plus)
+ </p>
