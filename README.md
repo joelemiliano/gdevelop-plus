@@ -1,2 +1,2 @@
-# gdevelop-plus
+# Gdevelop+
 More of gdevelop
