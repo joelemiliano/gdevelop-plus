@@ -1,0 +1,12 @@
+Gdevelop+ 0.0.2
+
+Created by Emicraft noob
+
+Credits
+
+Konami Code by Giampiero
+FlexBox by arthuro555
+Change cursor if hover by arthuro555 and Bouh
+FPS by Ahnaf30e
+Discord Rich Presence by arthuro555
+Show Hitbox by Emicraft noob
